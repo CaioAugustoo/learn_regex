@@ -47,4 +47,4 @@ const novoRegex = /[A-az-Z]/; // pode colocar com pontuação também
 const novoRegex = /[0-9]/g;
 
 // Para negar um caractere utlizamos acento circunflexo
-const novoRegex = /[*b]/g;
+const novoRegex = /[^b]/g;
